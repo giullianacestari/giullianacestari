@@ -13,7 +13,6 @@
 - 🐍 Python
 - 🐱 Scratch
 - 🎨 p5.js
-- 👩‍🔬 Data Science
 
 **You can talk to me:**
 
