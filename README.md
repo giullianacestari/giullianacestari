@@ -1,5 +1,5 @@
-## Hi! 💕
-**My name is Giulliana, but you can call me Giu.**
+## Hello! 💕
+**My name is Giulliana, but you can call me Giu :)**
 
 - Currently working at [Alura](https://www.alura.com.br/);
 - Currently studying System Analisys and Development;
